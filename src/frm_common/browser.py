@@ -12,7 +12,7 @@ def get_driver(p_brow):
         return webdriver.Opera()
 
 
-class New:
+class Browser:
 
     s_brow = ''
     s_url = ''
